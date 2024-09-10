@@ -104,7 +104,7 @@ Any conflicts within the group will be tackled as a group. If a team member has 
 ## Concept Designs:
 
 ### Climate Sensing Drone
-# ADD PICTURE
+
 ![Capture44](https://github.com/user-attachments/assets/bdc143b9-80a5-4d1f-93c4-2851ece1ed77)
 
 
@@ -123,7 +123,9 @@ A drone outfitted with sensors to gather environmental data while in the sky.
 * Requires a remote/controller, which could be a smart device which would complicate the development.  
 
 ### Weather Sensing Wizards Hat
-# ADD PICTURE
+
+![Capture55](https://github.com/user-attachments/assets/8f241866-574b-4097-9895-2af3df24221b)
+
 
 ###### Description:
 A wearable weather device that gathers wind speed, along with UV index, humidity, and temperature. This information is then converted to the baubles hanging from the rim to alert the user to weather predictions and conditions. 
@@ -137,7 +139,9 @@ A wearable weather device that gathers wind speed, along with UV index, humidity
 
 ### Detachable Wizard's Orb
 #### Attached to a wizard's staff for concept art. 
-# ADD PICTURE
+
+![Capture66](https://github.com/user-attachments/assets/a32ed4d5-8a47-4552-9397-8a8c0efdf9be)
+
 
 ###### Description:
 An orb that is detachable from the base, which allows it to be used in ways we have not predicted. Will be equipped with a temperature sensor, UV sensor, and humidity sensor to predict rain and other useful information. The sphere display allows for intuitive graphics and customizable information to be displayed. 
