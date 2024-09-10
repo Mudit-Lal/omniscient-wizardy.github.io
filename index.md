@@ -1,194 +1,309 @@
 # **Omniscient Staff**
+**Team No. \- 304**
 
-#### **Team No. \- 304**
+| **ASSIGNMENT LEADER** <br> Gwen Eging | **PROJECT MONITOR** <br> Mudit Lal |
+|:---:|:---:|
+| **MEETING LEADER** <br> Houyu Zhang | **MEETING RECORDER** <br> Sean-Michael Hall |
+
+09/09/2024  
+**Arizona State University**  
+*EGR 314 \- 81059*  
+Prof. Kevin Nichols  
+Fall 2024
 
 [Access Team Folder](https://drive.google.com/drive/folders/1gQi6lGEAkhdcD5YIUokNHRumHGqo1o-J?usp=sharing)
 
-| ASSIGNMENT LEADER <br>Gwen Eging | PROJECT MONITOR <br>Mudit Lal |
-| :---: | :---: |
-| **MEETING LEADER** <br>Houyu Zhang | **MEETING RECORDER** <br>Sean-Michael Hall |
-
-**Fall 2024**
-
 ---
-
-**Arizona State University**  
-EGR 314 \- 81059  
-**Prof. Kevin Nichols**
-
-(Title Page Design by Mudit)
 
 ## **Table of Contents**
 
-[Team Goals	3](#team-goals)
+1. [Team Goals](#team-goals)
+2. [Mission Statement](#mission-statement)
+3. [User Needs, Benchmarking, and Requirements](#user-needs-benchmarking-and-requirements)  
+   1. [Identifying User Needs](#identifying-user-needs)  
+      1. [Steps Taken](#steps-taken)  
+      2. [Organizing and Refining User Needs](#organizing-and-refining-user-needs)  
+      3. [Final User Needs](#final-user-needs)  
+   2. [Benchmarking](#benchmarking)  
+      1. [Key Products Benchmarked](#key-products-benchmarked)  
+      2. [Findings](#findings)  
+   3. [Converting User Needs into Specifications](#converting-user-needs-into-specifications)  
+      1. [Translation into Quantifiable Metrics](#translation-into-quantifiable-metrics)  
+      2. [Sample Specifications](#sample-specifications)  
+   4. [Assessing the Design Against Requirements](#assessing-the-design-against-requirements)  
+      1. [Aspects of Assessment](#aspects-of-assessment)  
+4. [Design Ideation](#design-ideation)  
+   1. [Climate Sensing Drone](#climate-sensing-drone)  
+   2. [Weather Sensing Wizard's Hat](#weather-sensing-wizards-hat)  
+   3. [Detachable Wizard's Orb](#detachable-wizards-orb)  
+5. [Design Ideation: Specification Assignment](#design-ideation-specification-assignment)  
+   1. [Roles of Each Team Member in Generating Ideas](#roles-of-each-team-member-in-generating-ideas)  
+      1. [Haoyu Zhang](#haoyu-zhang)  
+      2. [Mudit Lal](#mudit-lal)  
+      3. [Gwen](#gwen)  
+      4. [Sean](#sean)  
+   2. [Brainstorming Techniques: What Worked and What Didn’t](#brainstorming-techniques-what-worked-and-what-didn’t)  
+      1. [What Worked](#what-worked)  
+      2. [What Didn’t Work](#what-didn’t-work)  
+   3. [Process for Organizing and Ranking Ideas](#process-for-organizing-and-ranking-ideas)  
+      1. [Organizing](#organizing)  
+      2. [Ranking](#ranking)  
+      3. [Concept Sketching](#concept-sketching)  
+   4. [Justification for Final Specifications](#justification-for-final-specifications)  
+6. [Assignments](#assignments)  
+7. [Presentation 1](#presentation-1)  
+8. [Appendix](#appendix)  
+   1. [Appendix A: Team Organization](#appendix-a-team-organization)  
+   2. [Communication Channels and Procedures](#communication-channels-and-procedures)  
+   3. [Meeting Schedule and Coordination](#meeting-schedule-and-coordination)  
+   4. [Roles and Responsibilities](#roles-and-responsibilities)  
+   5. [Team Coordination and Accountability](#team-coordination-and-accountability)  
+   6. [Conflict Recognition and Resolution](#conflict-recognition-and-resolution)  
 
-[Mission Statement	3](#mission-statement)
-
-[Communication Channels and Procedures	3](#communication-channels-and-procedures)
-
-[Meeting Schedule and Coordination	4](#meeting-schedule-and-coordination)
-
-[Roles and Responsibilities	4](#roles-and-responsibilities)
-
-[Team Coordination and Accountability	5](#team-coordination-and-accountability)
-
-[Conflict Recognition and Resolution	5](#conflict-recognition-and-resolution)
-
-[Team Member Signatures	6](#team-member-signatures)
-
-# 
+---
 
 # **Team Organization Charter**
 
 ### **Team Goals** {#team-goals}
 
-1. Developing a unique and whimsical product that can be added to our resumes.   
-2. A product that creates and inspires a useful line of products that are made with a focus on practicality  
-3. Give priority to safety  
-4. An intuitive design is proven through user testing  
-5. Delivering a physically sturdy and durable product
+1. Developing a unique and whimsical product that can be added to our resumes.  
+2. A product that creates and inspires a useful line of products with a focus on practicality.  
+3. Prioritizing safety.  
+4. An intuitive design proven through user testing.  
+5. Delivering a physically sturdy and durable product.
 
 ### **Mission Statement** {#mission-statement}
 
 Our mission is to innovate the hiking experience by merging functionality with imagination. By creating a technologically advanced staff inspired by the timeless wizard's tool, we aim to empower outdoor enthusiasts with real-time environmental data and navigational insights. Our project demonstrates that practicality and creativity can coexist, paving the way for a new generation of products that are as useful as they are inspiring. We strive to enhance safety, awareness, and adventure for hikers while pushing the boundaries of what everyday objects can achieve in the modern world.
 
-### **Communication Channels and Procedures** {#communication-channels-and-procedures}
+---
+
+# **User Needs, Benchmarking, and Requirements**
+
+### Identifying User Needs {#identifying-user-needs}
+
+#### Steps Taken {#steps-taken}
+
+1. **User Interviews**:  
+   - Interviews with potential users, including hikers, campers, and outdoor enthusiasts, to gather insights on safety, ease of use, portability, and durability.  
+2. **Market Research**:  
+   - Analyzed existing products for benchmarking, including GPS-integrated compasses, weather monitoring devices, and portable safety equipment.  
+
+#### Organizing and Refining User Needs {#organizing-and-refining-user-needs}
+
+- **Categorization**: Functionality, Safety, and Design.  
+- **Combining Needs**: Simplifying similar needs, like combining "easy to use" and "simple interface."  
+- **Splitting Needs**: Breaking down complex needs, such as splitting "weatherproof" into smudge-proof glass and waterproof casing.  
+- **Assigning Importance**: Ranked needs based on frequency and impact.
+
+#### Final User Needs {#final-user-needs}
+
+- **Functionality**: Real-time weather updates, UV detection, low power consumption.  
+- **Safety**: Shockproof design, emergency beacon, leakproof design.  
+- **Design**: Lightweight, durable, built-in compass, and GPS.
+
+### Benchmarking {#benchmarking}
+
+#### Key Products Benchmarked {#key-products-benchmarked}
+
+1. **Portable GPS Devices**  
+2. **Wearable Weather Monitors**  
+3. **Emergency Tools**  
+
+#### Findings {#findings}
+
+- **Garmin GPS Devices**: Strong navigation, but room for improvement in battery life and size.  
+- **Wearable Monitors**: Key features were identified for enhancement with advanced sensors.  
+- **Emergency Tools**: Combined several standalone safety features for added functionality.
+
+### Converting User Needs into Specifications {#converting-user-needs-into-specifications}
+
+#### Translation into Quantifiable Metrics {#translation-into-quantifiable-metrics}
+
+- "Lightweight" → less than 500 grams.  
+- "Durable and weatherproof" → IP67 waterproof rating, 1.5m drop resistance.  
+
+#### Sample Specifications {#sample-specifications}
+
+- Weight: < 500 grams  
+- Waterproof Rating: IP67  
+- Battery Life: 10+ hours  
+- UV Detection Accuracy: ±5%  
+- Drop Resistance: Withstands drops from 1.5m  
+- Setup Time: < 30 seconds  
+- SOS Signal Range: 2+ km  
+
+### Assessing the Design Against Requirements {#assessing-the-design-against-requirements}
+
+#### Aspects of Assessment {#aspects-of-assessment}
+
+1. **Functionality Testing**: Real-world testing of weather updates, UV detection, and battery life.  
+2. **Safety Testing**: Drop and waterproofing tests; emergency beacon range evaluation.  
+3. **Design Assessment**: User trials for ease of use, setup time, and portability.
+
+---
+
+# **Design Ideation** {#design-ideation}
+
+### Climate Sensing Drone {#climate-sensing-drone}
+
+A drone outfitted with sensors to gather environmental data while airborne.
+
+**Pros**:  
+- Remote access  
+- Camera  
+
+**Cons**:  
+- Restricted in national parks  
+- Hard to navigate in forested areas  
+- Wind-sensitive, requiring skill for control  
+
+### Weather Sensing Wizard's Hat {#weather-sensing-wizards-hat}
+
+A wearable device that monitors wind, UV index, humidity, and temperature.
+
+**Pros**:  
+- Wearable  
+- Less distracting than a drone  
+
+**Cons**:  
+- Bulky  
+- Difficult communication with the user  
+
+### Detachable Wizard's Orb {#detachable-wizards-orb}
+
+An orb with sensors for temperature, UV, and humidity that can be detached for flexible use.
+
+**Pros**:  
+- Easy to use  
+- Comprehensive display  
+
+**Cons**:  
+- Display implementation could be challenging  
+- Durability concerns due to modularity
+
+---
+
+# **Design Ideation: Specification Assignment** {#design-ideation-specification-assignment}
+
+### Roles of Each Team Member in Generating Ideas {#roles-of-each-team-member-in-generating-ideas}
+
+#### Haoyu Zhang {#haoyu-zhang}
+Focused on functionality and safety, contributing ideas for replaceable parts and non-toxic materials.
+
+#### Mudit Lal {#mudit-lal}
+Specialized in navigation and emergency features, such as GPS and emergency beacons.
+
+#### Gwen {#gwen}
+Emphasized power efficiency and protection, including low power consumption and external design safety.
+
+#### Sean {#sean}
+Contributed to detection features, including UV sensors and quiet operations for minimal wildlife disturbance.
+
+### Brainstorming Techniques: What Worked and What Didn’t {#brainstorming-techniques-what-worked-and-what-didn’t}
+
+#### What Worked {#what-worked}
+
+- Diverse perspectives  
+- Effective categorization of ideas
+
+#### What Didn’t Work {#what-didn’t-work}
+
+- Idea overlap slowed decision-making.
+
+### Process for Organizing and Ranking Ideas {#process-for-organizing-and-ranking-ideas}
+
+#### Organizing {#organizing}
+Ideas were grouped by Functionality, Safety, and Design.
+
+#### Ranking {#ranking}
+Consensus-based ranking, prioritizing widely supported ideas like low power consumption.
+
+#### Concept Sketching {#concept-sketching}
+Sketches were made for emergency beacons and extendable designs.
+
+### Justification for Final Specifications {#justification-for-final-specifications}
+
+Updated based on feedback to focus on durability, user convenience, and innovative sensing capabilities.
+
+---
+
+# **Assignments** {#assignments}
+
+- [x] Team Signup  
+- [x] Invention Pitch  
+- [x] Team Organization & Charter  
+- [x] Design Ideation  
+- [x] Team Checkpoint 1  
+- [ ] Block Diagram  
+- [ ] Component Selection  
+- [ ] Microcontroller Selection  
+- [ ] CATME 1  
+- [ ] Hardware Orders  
+- [ ] Software Proposal  
+- [ ] Subsystem Design  
+- [ ] Hardware Proposal  
+- [ ] Hardware Implementation V1  
+- [ ] CATME 2  
+- [ ] Team Checkpoint 2 (Presentation)  
+- [ ] Team System Prototype  
+- [ ] Subsystem Verification  
+- [ ] Team Checkpoint 2 (Materials)  
+- [ ] Innovation Showcase Submission  
+- [ ] Team System Prototype  
+- [ ] Hardware Implementation V2  
+- [ ] Team System Verification Part 1  
+- [ ] Team Protocol and Controller Design  
+- [ ] Innovation Showcase Poster Submission  
+- [ ] Software Implementation  
+- [ ] System Verification Final  
+- [ ] Team Checkpoint 3 (Demonstration)  
+- [ ] CATME 3  
+- [ ] Team Checkpoint 3 (Report)
+
+---
+
+# **Presentation 1** {#presentation-1}
+
+[![YouTube Video](https://img.youtube.com/vi/iCSMr5S1n1Q/0.jpg)](https://youtu.be/iCSMr5S1n1Q)
+
+---
+
+# **Appendix** {#appendix}
+
+### Appendix A: Team Organization {#appendix-a-team-organization}
+
+### Communication Channels and Procedures {#communication-channels-and-procedures}
 
 | Name | Discord | Email | 
 | :---- | :---- | :---- | 
-| Gwen Eging | Discord: gubb\_gubb | Email: geging@asu.edu |
-| Houyu Zhang | Discord: alpaca\_z | Email: hzhan322@asu.edu |
-| Mudit Lal | Discord: muditlal | Email: mlal4@asu.edu |
-| SeanMichael Hall | Discord: seanmikeall | email: shall58@asu.edu |
+| Gwen Eging | gubb_gubb | geging@asu.edu |  
+| Houyu Zhang | alpaca_z | hzhan322@asu.edu |  
+| Mudit Lal | muditlal | mlal4@asu.edu |  
+| Sean-Michael Hall | seanmikeall | shall58@asu.edu |  
 
-Our team’s primary method of communication is through Discord, with text messages as a backup. These methods can be asynchronous, which is excellent for assigning parts, sharing resources, and discussing logistics. They can also be used synchronously with voice chats, allowing us to work together while discussing our assignments and tasks. 
+Our team’s primary communication method is through Discord, with text messages as a backup. All correspondence with the professor will be done in person or via email, with the rest of the team CC’d.
 
-All correspondence will be done with the professor in person or through email. We can communicate via email as long as the rest of the team is CC’d on the conversation. 
+### Meeting Schedule and Coordination {#meeting-schedule-and-coordination}
 
-### **Meeting Schedule and Coordination** {#meeting-schedule-and-coordination}
+Meetings: Mondays and/or Fridays, 5:45 PM - 6:30 PM.  
+Meeting reminders will be sent via Google Calendar and Discord.
 
-5:45 pm \- 6:30 PM | Mondays and/or Fridays  
-45-minute meetings where team members can share ideas, provide updates, and delegate tasks.
+### Roles and Responsibilities {#roles-and-responsibilities}
 
-To ensure all members are aware of the meetings and do not forget to do so, we will use Google Calendar and message reminders through the chosen communication methods. 
+| Member | Role |
+| ------ | :---: |
+| Mudit Lal | Project Monitor |  
+| Houyu Zhang | Meeting Leader |  
+| Gwen Eging | Assignment Leader |  
+| Sean-Michael Hall | Meeting Recorder |  
 
-Our team will discuss the meeting changes and ensure that as many members as possible can attend. On occasion, we will have to hold a meeting while missing a member or two. In this case, we will communicate with the missing member(s) with any relevant information after the meeting. 
+Roles may change upon request, and team members are encouraged to communicate if they need assistance.
 
-The preferred method of meeting is in person; however, life is unpredictable. With the use of Discord, we can hold virtual meetings through voice chat and screen sharing. This will also help us stay flexible on meeting times. 
+### Team Coordination and Accountability {#team-coordination-and-accountability}
 
-### **Roles and Responsibilities** {#roles-and-responsibilities}
+Assignments will be coordinated through Discord, and updates will be shared in class. Underperforming members will receive warnings before any escalation.
 
-| MEMBER | ROLE |
-| ----- | :---: |
-| Mudit Lal | Project Monitor |
-| Houyu Zhang | Meeting Leader |
-| Gwen Eging | Assignment Leader |
-| Sean-Michael Hall | Meeting Recorder |
+### Conflict Recognition and Resolution {#conflict-recognition-and-resolution}
 
-Each team member will pick a role based on the amount of workload that they can tackle. If a team member feels like they need assistance on a specific project assignment, they will communicate with the rest of the team and they will do their best to assist in any way they can. In order for the group to succeed as a whole, we must all be doing our parts and contributing to the team. In addition, the team will check in with one another to make sure that we are all doing the work evenly and effectively. The team will refer to team assignments, documentation, etc in order for the team to reach its milestone and success as a whole.
-
-Roles will change upon team members' request. We will decide who is assigned to each role based on preference. Team members will help through requests over Discord chat. We will identify and respond to situations of role adjustments by discussing them in team meetings. We will track team activities through the project monitor. We will assign technical responsibilities in class.
-
-### **Team Coordination and Accountability** {#team-coordination-and-accountability}
-
-We will ensure each team member checks assignments, that each team member has knowledge of what is required for each assignment, and that feedback is distributed and acted upon by sending assignments into a discord chat pre-submission, updating each other in class, and following up over discord to provide any clarifications, and assigning a member to keep track of feedbacks for us to implement.
-
-Skill and knowledge of an assignment will be verbally distributed in person or remotely. If a team member feels that they don’t have the skill and knowledge to complete a task, the team will comprise the workload to complete the assignment by the assigned deadline.
-
-Team members are assisted and held accountable through discord chats and a possible call if deemed necessary. Underperforming members will receive various warnings and explanations before escalation.
-
-### **Conflict Recognition and Resolution** {#conflict-recognition-and-resolution}
-
-Any conflicts within the group will be tackled as a group. If a team member has any sort of conflict with the group, they will voice their thoughts and concerns to the group and present what needs to be fixed. Therefore, the group will come to a compromise as a whole either in-person or remotely via one of the communication methods that has been established.
-
-## Concept Designs:
-
-### Climate Sensing Drone
-
-![Capture44](https://github.com/user-attachments/assets/bdc143b9-80a5-4d1f-93c4-2851ece1ed77)
-
-
-###### Description:
-A drone outfitted with sensors to gather environmental data while in the sky. 
-
-##### Pros:
-* Remote access
-* Camera
-##### Cons:
-* National parks banned drones for recreational use
-* Hard to navigate with trees
-* Requires skill to operate
-* Not easy to control while on the go.
-* Wind could alter the flight path of the device.
-* Requires a remote/controller, which could be a smart device which would complicate the development.  
-
-### Weather Sensing Wizards Hat
-
-![Capture55](https://github.com/user-attachments/assets/8f241866-574b-4097-9895-2af3df24221b)
-
-
-###### Description:
-A wearable weather device that gathers wind speed, along with UV index, humidity, and temperature. This information is then converted to the baubles hanging from the rim to alert the user to weather predictions and conditions. 
-
-##### Pros:
-* Wearable
-* Less distracting, compared to the drone 
-##### Cons:
-* Combersume to wear
-* Communication with the user is difficult 
-
-### Detachable Wizard's Orb
-#### Attached to a wizard's staff for concept art. 
-
-![Capture66](https://github.com/user-attachments/assets/a32ed4d5-8a47-4552-9397-8a8c0efdf9be)
-
-
-###### Description:
-An orb that is detachable from the base, which allows it to be used in ways we have not predicted. Will be equipped with a temperature sensor, UV sensor, and humidity sensor to predict rain and other useful information. The sphere display allows for intuitive graphics and customizable information to be displayed. 
-
-##### Pros:
-* Easy to use
-* Comprehensive display
-* No external device is needed
-* Versatile
-##### Cons:
-* Sphere display could be difficult to implement
-* Durability will be a challenge due to design and modularity
-
-## Presentation [Link](https://www.youtube.com/watch?v=iCSMr5S1n1Q)
-
-### Assignments: 
-- [x] Team Signup
-- [x] Invention Pitch
-- [x] Team Organization & Charter
-- [x] Design Ideation
-- [ ] Team Checkpoint 1
-- [ ] Block Diagram
-- [ ] Component Selection
-- [ ] Microcontroller Selection
-- [ ] CATME 1
-- [ ] Hardware Orders
-- [ ] Software Proposal
-- [ ] Subsystem Design
-- [ ] Hardware Proposal
-- [ ] Hardware Implementation V1
-- [ ]  CATME 2
-- [ ] Team Checkpoint 2 (Presentation)
-- [ ] Team System Prototype 
-- [ ] Subsystem Verification
-- [ ] Team Checkpoint 2 (Materials)
-- [ ] Innovation Showcase Submission
-- [ ] Team System Prototype
-- [ ] Hardware Implementation V2
-- [ ] Team System Verification Part 1
-- [ ] Team Protocol and Controller Design
-- [ ] Innovation Showcase poster submission
-- [ ] Software Implementation
-- [ ] System Verification Final
-- [ ] Team Checkpoint 3 (Demonstration)
-- [ ] CATME 3
-- [ ] Team Checkpoint 3 (Report)
-
-  
-
-
+Conflicts will be resolved collectively, with team members voicing concerns and working towards a compromise.
