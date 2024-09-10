@@ -155,6 +155,8 @@ An orb that is detachable from the base, which allows it to be used in ways we h
 * Sphere display could be difficult to implement
 * Durability will be a challenge due to design and modularity
 
+## Presentation [Link](https://www.youtube.com/watch?v=iCSMr5S1n1Q)
+
 ### Assignments: 
 - [x] Team Signup
 - [x] Invention Pitch
