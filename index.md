@@ -410,20 +410,3 @@ Selected Product
 | Voice of the customer | Restated customer need |
 | :---- | :---- |
 | The batteries in the outdoor unit will be very difficult to replace while on the roof. There is a small screw to remove that is almost guaranteed to fall down and roll off the roof, and then the batteries have to go up into the unit with the correct polarity, and you will have to lay under it looking up to see the installation direction. Battery replacement from the side would be a lot better. Amended to one star.  This weather station has pretty severe mounting limitations if you are mounting it on a "vertical" service. If this surface is vertical, you can only mount it on an east or west facing surface, as the mounting hardware included doesn't let you rotate the unit around to point the outdoor sensor in the correct direction. It certainly has a lot of functions (mostly useless), and my estimate is around a hundred. To pull up all this information, you have basically three buttons located around the edges, so be careful if you have to pick it up to read it or shift the rain gage scale. If you push the wrong button or push them in the wrong sequence, you could wind up erasing data. No menu and no help from the manual. | Internal parts are easy to replace(explicit) Large battery capacity(latent) The station can be mounted at any angle(explicit) The units can be rotated(explicit) All functions should be integrated and categorized(explicit) Wrong actions on system can be undone(explicit) The instruction is simple and easy to understand(latent) Longer life cycle(latent) |
-
-
-### Search \#4
-
-**Keywords:** 
-
-**Search Results Link:** 
-
-Selected Product
-
-### Search \#5
-
-**Keywords:** 
-
-**Search Results Link:** 
-
-Selected Product
