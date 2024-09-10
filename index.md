@@ -105,6 +105,8 @@ Any conflicts within the group will be tackled as a group. If a team member has 
 
 ### Climate Sensing Drone
 # ADD PICTURE
+![Capture44](https://github.com/user-attachments/assets/bdc143b9-80a5-4d1f-93c4-2851ece1ed77)
+
 
 ###### Description:
 A drone outfitted with sensors to gather environmental data while in the sky. 
