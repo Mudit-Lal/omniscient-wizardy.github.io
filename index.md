@@ -235,13 +235,13 @@ Updated based on feedback to focus on durability, user convenience, and innovati
 - [x] Team Organization & Charter  
 - [x] Design Ideation  
 - [x] Team Checkpoint 1  
-- [ ] Block Diagram  
-- [ ] Component Selection  
-- [ ] Microcontroller Selection  
-- [ ] CATME 1  
-- [ ] Hardware Orders  
+- [x] Block Diagram  
+- [x] Component Selection  
+- [x] Microcontroller Selection  
+- [x] CATME 1  
+- [x] Hardware Orders  
 - [ ] Software Proposal  
-- [ ] Subsystem Design  
+- [x] Subsystem Design  
 - [ ] Hardware Proposal  
 - [ ] Hardware Implementation V1  
 - [ ] CATME 2  
