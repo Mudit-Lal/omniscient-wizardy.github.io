@@ -5,6 +5,8 @@
 |:---:|:---:|
 | **MEETING LEADER** <br> Houyu Zhang | **MEETING RECORDER** <br> Kevin Ordorica |
 
+[a relative link](WorkingDesign.md)
+
 09/09/2024  
 **Arizona State University**  
 *EGR 314 \- 81059*  
