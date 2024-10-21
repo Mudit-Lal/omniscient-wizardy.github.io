@@ -3,7 +3,7 @@
 
 | **ASSIGNMENT LEADER** <br> Gwen Eging | **PROJECT MONITOR** <br> Mudit Lal |
 |:---:|:---:|
-| **MEETING LEADER** <br> Houyu Zhang | **MEETING RECORDER** <br> Sean-Michael Hall |
+| **MEETING LEADER** <br> Houyu Zhang | **MEETING RECORDER** <br> Kevin Ordorica |
 
 09/09/2024  
 **Arizona State University**  
@@ -41,7 +41,7 @@ Fall 2024
       1. [Haoyu Zhang](#haoyu-zhang)  
       2. [Mudit Lal](#mudit-lal)  
       3. [Gwen](#gwen)  
-      4. [Sean](#sean)  
+      4. [Kevin Ordorica](#Kevin Ordorica)  
    2. [Brainstorming Techniques: What Worked and What Didn’t](#brainstorming-techniques-what-worked-and-what-didn’t)  
       1. [What Worked](#what-worked)  
       2. [What Didn’t Work](#what-didn’t-work)  
@@ -203,7 +203,7 @@ Specialized in navigation and emergency features, such as GPS and emergency beac
 #### Gwen {#gwen}
 Emphasized power efficiency and protection, including low power consumption and external design safety.
 
-#### Sean {#sean}
+#### Kevin Ordorica {#Kevin Ordorica}
 Contributed to detection features, including UV sensors and quiet operations for minimal wildlife disturbance.
 
 ### Brainstorming Techniques: What Worked and What Didn’t {#brainstorming-techniques-what-worked-and-what-didn’t}
