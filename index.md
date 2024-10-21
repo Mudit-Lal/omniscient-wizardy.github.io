@@ -51,8 +51,9 @@ Fall 2024
       3. [Concept Sketching](#concept-sketching)  
    4. [Justification for Final Specifications](#justification-for-final-specifications)  
 6. [Assignments](#assignments)  
-7. [Presentation 1](#presentation-1)  
-8. [Appendix](#appendix)  
+7. [Presentation 1](#presentation-1)
+8. [Selected Design](#selected-design)
+9. [Appendix](#appendix)  
    1. [Appendix A: Team Organization](#appendix-a-team-organization)  
    2. [Communication Channels and Procedures](#communication-channels-and-procedures)  
    3. [Meeting Schedule and Coordination](#meeting-schedule-and-coordination)  
@@ -269,6 +270,9 @@ Updated based on feedback to focus on durability, user convenience, and innovati
 
 ---
 
+# **Selected Design** {#selected-design}
+
+---
 # **Appendix** {#appendix}
 
 ### Appendix A: Team Organization {#appendix-a-team-organization}
