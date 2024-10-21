@@ -80,8 +80,8 @@ Our mission is to innovate the hiking experience by merging functionality with i
 ---
 
 # **User Needs, Benchmarking, and Requirements**
-![benchmark2](https://github.com/omniscient-wizardry/omniscient-wizardy.github.io/blob/main/benchmark1.png)
-![benchmark2](https://github.com/omniscient-wizardry/omniscient-wizardy.github.io/blob/main/benchmark2.png)
+![benchmark2](https://github.com/omniscient-wizardry/omniscient-wizardy.github.io/blob/main/Images/benchmark1.png)
+![benchmark2](https://github.com/omniscient-wizardry/omniscient-wizardy.github.io/blob/main/Images/benchmark2.png)
 
 ### Identifying User Needs {#identifying-user-needs}
 
@@ -120,7 +120,7 @@ Our mission is to innovate the hiking experience by merging functionality with i
 - **Emergency Tools**: Combined several standalone safety features for added functionality.
 
 ### Converting User Needs into Specifications {#converting-user-needs-into-specifications}
-![rearange](https://github.com/omniscient-wizardry/omniscient-wizardy.github.io/blob/main/rearrange.png)
+![rearange](https://github.com/omniscient-wizardry/omniscient-wizardy.github.io/blob/main/Images/rearrange.png)
 #### Translation into Quantifiable Metrics {#translation-into-quantifiable-metrics}
 
 - "Lightweight" → less than 500 grams.  
@@ -149,7 +149,7 @@ Our mission is to innovate the hiking experience by merging functionality with i
 # **Design Ideation** {#design-ideation}
 
 ### Climate Sensing Drone {#climate-sensing-drone}
-![design1](https://github.com/omniscient-wizardry/omniscient-wizardy.github.io/blob/main/design1.png)
+![design1](https://github.com/omniscient-wizardry/omniscient-wizardy.github.io/blob/main/Images/design1.png)
 
 A drone outfitted with sensors to gather environmental data while airborne.
 
@@ -163,7 +163,7 @@ A drone outfitted with sensors to gather environmental data while airborne.
 - Wind-sensitive, requiring skill for control  
 
 ### Weather Sensing Wizard's Hat {#weather-sensing-wizards-hat}
-![design2](https://github.com/omniscient-wizardry/omniscient-wizardy.github.io/blob/main/design2.png)
+![design2](https://github.com/omniscient-wizardry/omniscient-wizardy.github.io/blob/main/Images/design2.png)
 
 A wearable device that monitors wind, UV index, humidity, and temperature.
 
@@ -176,7 +176,7 @@ A wearable device that monitors wind, UV index, humidity, and temperature.
 - Difficult communication with the user  
 
 ### Detachable Wizard's Orb {#detachable-wizards-orb}
-![design3](https://github.com/omniscient-wizardry/omniscient-wizardy.github.io/blob/main/design3.png)
+![design3](https://github.com/omniscient-wizardry/omniscient-wizardy.github.io/blob/main/Images/design3.png)
 
 An orb with sensors for temperature, UV, and humidity that can be detached for flexible use.
 
