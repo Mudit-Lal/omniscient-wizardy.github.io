@@ -1,7 +1,3 @@
----
-title: Working Design
-filename: WorkingDesign.md
---- 
 
 # **Selected Design** {#selected-design}
 ![selected design](https://github.com/omniscient-wizardry/omniscient-wizardy.github.io/blob/main/Images/Selected%20Design.png)
