@@ -150,6 +150,7 @@ Our mission is to innovate the hiking experience by merging functionality with i
 
 ### Climate Sensing Drone {#climate-sensing-drone}
 ![design1](https://github.com/omniscient-wizardry/omniscient-wizardy.github.io/blob/main/design1.png)
+
 A drone outfitted with sensors to gather environmental data while airborne.
 
 **Pros**:  
@@ -163,6 +164,7 @@ A drone outfitted with sensors to gather environmental data while airborne.
 
 ### Weather Sensing Wizard's Hat {#weather-sensing-wizards-hat}
 ![design2](https://github.com/omniscient-wizardry/omniscient-wizardy.github.io/blob/main/design2.png)
+
 A wearable device that monitors wind, UV index, humidity, and temperature.
 
 **Pros**:  
@@ -175,6 +177,7 @@ A wearable device that monitors wind, UV index, humidity, and temperature.
 
 ### Detachable Wizard's Orb {#detachable-wizards-orb}
 ![design3](https://github.com/omniscient-wizardry/omniscient-wizardy.github.io/blob/main/design3.png)
+
 An orb with sensors for temperature, UV, and humidity that can be detached for flexible use.
 
 **Pros**:  
@@ -275,6 +278,7 @@ Updated based on feedback to focus on durability, user convenience, and innovati
 # **Selected Design** {#selected-design}
 ![selected design](https://github.com/omniscient-wizardry/omniscient-wizardy.github.io/blob/main/Selected%20Design.png)
 ![ideals](https://github.com/omniscient-wizardry/omniscient-wizardy.github.io/blob/main/Ideals.png)
+
 The team came up with a concept different from the ones from the previous ideation. After choosing the sensors and components needed to fulfill project requirements the team realized the initial concept was not going to work. Initially, we wanted to make a device that was whimsical, and able to be taken hiking to give real-time data and predictions. 
 
 Instead of going with an initial device idea, we decided to go with a device that can house a drone, gather weather data for flying conditions, and communicate that to the user. Some parts of the ideation process were taken into consideration when designing the device. It still needs to be weatherproof, and able to predict and communicate the data to a user, and we did try to keep the whimsical appearance. 
