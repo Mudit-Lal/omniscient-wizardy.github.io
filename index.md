@@ -86,7 +86,7 @@ Our mission is to innovate the drone flying experience by merging functionality 
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iCSMr5S1n1Q?si=S4IbEMrWmj8Khiq7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Checkpoin 1 Presentation](https://img.youtube.com/vi/iCSMr5S1n1Q/0.jpg)](https://www.youtube.com/watch?v=iCSMr5S1n1Q)
 
 ---
 
