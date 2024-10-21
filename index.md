@@ -80,8 +80,8 @@ Our mission is to innovate the hiking experience by merging functionality with i
 ---
 
 # **User Needs, Benchmarking, and Requirements**
-![benchmark2](https://ibb.co/h7vWqCW)
-![benchmark2](https://ibb.co/wcMLhWj)
+![benchmark2](https://github.com/omniscient-wizardry/omniscient-wizardy.github.io/blob/main/Images/benchmark1.png)
+![benchmark2](https://github.com/omniscient-wizardry/omniscient-wizardy.github.io/blob/main/Images/benchmark2.png)
 
 ### Identifying User Needs {#identifying-user-needs}
 
