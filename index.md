@@ -434,8 +434,6 @@ Negative Comments
 
 Selected Product
 
-# ![][image3]
-
 * Price: 134.47$  
 * Vendor: AcuRite  
 * Description: The AcuRite Weather Station offers precise, hyperlocal weather monitoring for home, office, or business use. This wireless device features an anemometer, rain gauge, wind vane, hygrometer, and thermometer. It provides accurate weather forecasts by taking 4,000 barometric pressure readings every 12 minutes, with accuracy improving over a 14-day learning period. The station also measures indoor temperature, humidity, and barometric pressure. Easy to set up, it includes mounting hardware and has a 2-year battery life. Ideal for real-time weather updates to protect your home and garden.  
