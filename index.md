@@ -293,6 +293,8 @@ Instead of going with an initial device idea, we decided to go with a device tha
 
 # **block-diagram** {#block-diagram}
 
+![block diagram](https://github.com/omniscient-wizardry/omniscient-wizardy.github.io/blob/main/Images/block%20diagram.png)
+
 ---
 
 # **component-selection** {#component-selection}
