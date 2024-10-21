@@ -80,7 +80,7 @@ Fall 2024
 
 ### **Mission Statement** {#mission-statement}
 
-Our mission is to innovate the drone flying experience by merging functionality with imagination. By creating a technologically advanced drone landing pad, we aim to empower outdoor enthusiasts with real-time environmental data and navigational insights. Our project demonstrates that practicality and creativity can coexist, paving the way for a new generation of products that are as useful as they are inspiring. We strive to enhance safety, awareness, and adventure for hikers while pushing the boundaries of what everyday objects can achieve in the modern world.
+Our mission is to innovate the drone flying experience by merging functionality with imagination. By creating a technologically advanced drone landing pad. Our project demonstrates that practicality and creativity can coexist, paving the way for a new generation of products that are as useful as they are inspiring. We strive to enhance awareness for drone enthusists while pushing the boundaries of what everyday objects can achieve in the modern world.
 
 ---
 
