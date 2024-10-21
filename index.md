@@ -239,40 +239,7 @@ Updated based on feedback to focus on durability, user convenience, and innovati
 
 ---
 
-# **Assignments** {#assignments}
 
-- [x] Team Signup  
-- [x] Invention Pitch  
-- [x] Team Organization & Charter  
-- [x] Design Ideation  
-- [x] Team Checkpoint 1  
-- [x] Block Diagram  
-- [x] Component Selection  
-- [x] Microcontroller Selection  
-- [x] CATME 1  
-- [x] Hardware Orders  
-- [ ] Software Proposal  
-- [x] Subsystem Design  
-- [ ] Hardware Proposal  
-- [ ] Hardware Implementation V1  
-- [ ] CATME 2  
-- [ ] Team Checkpoint 2 (Presentation)  
-- [ ] Team System Prototype  
-- [ ] Subsystem Verification  
-- [ ] Team Checkpoint 2 (Materials)  
-- [ ] Innovation Showcase Submission  
-- [ ] Team System Prototype  
-- [ ] Hardware Implementation V2  
-- [ ] Team System Verification Part 1  
-- [ ] Team Protocol and Controller Design  
-- [ ] Innovation Showcase Poster Submission  
-- [ ] Software Implementation  
-- [ ] System Verification Final  
-- [ ] Team Checkpoint 3 (Demonstration)  
-- [ ] CATME 3  
-- [ ] Team Checkpoint 3 (Report)
-
----
 
 # **Presentation 1** {#presentation-1}
 
@@ -313,6 +280,41 @@ Instead of going with an initial device idea, we decided to go with a device tha
 ---
 
 # **Appendix** {#appendix}
+
+# **Assignments** {#assignments}
+
+- [x] Team Signup  
+- [x] Invention Pitch  
+- [x] Team Organization & Charter  
+- [x] Design Ideation  
+- [x] Team Checkpoint 1  
+- [x] Block Diagram  
+- [x] Component Selection  
+- [x] Microcontroller Selection  
+- [x] CATME 1  
+- [x] Hardware Orders  
+- [x] Software Proposal  
+- [x] Subsystem Design  
+- [x] Hardware Proposal  
+- [ ] Hardware Implementation V1  
+- [ ] CATME 2  
+- [ ] Team Checkpoint 2 (Presentation)  
+- [ ] Team System Prototype  
+- [ ] Subsystem Verification  
+- [ ] Team Checkpoint 2 (Materials)  
+- [ ] Innovation Showcase Submission  
+- [ ] Team System Prototype  
+- [ ] Hardware Implementation V2  
+- [ ] Team System Verification Part 1  
+- [ ] Team Protocol and Controller Design  
+- [ ] Innovation Showcase Poster Submission  
+- [ ] Software Implementation  
+- [ ] System Verification Final  
+- [ ] Team Checkpoint 3 (Demonstration)  
+- [ ] CATME 3  
+- [ ] Team Checkpoint 3 (Report)
+
+---
 
 ### Appendix A: Team Organization {#appendix-a-team-organization}
 
